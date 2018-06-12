@@ -1,0 +1,7 @@
+{
+  "generator-jhipster-ionic": {
+    "promptValues": {
+      "backendPath": "../ionic-raible-2018-01"
+    }
+  }
+}
